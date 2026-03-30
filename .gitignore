@@ -9,6 +9,7 @@ __pycache__/
 .venv/
 venv/
 .python-version
+#Venv
 
 # Jupyter
 .ipynb_checkpoints/
@@ -18,3 +19,5 @@ venv/
 .vscode/
 *.swp
 *.swo
+
+langchain
