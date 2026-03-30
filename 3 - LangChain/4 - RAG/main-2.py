@@ -63,4 +63,7 @@ def responder(pergunta:str):
     })
     
 print(responder("Como devo proceder caso tenha um item comprado roubado e caso eu tenha o cartão gold"))
+print("\n")
+print("===================================================================================================")
+print("\n")
 print(responder("Como devo proceder caso tenha um item comprado roubado e caso eu tenha o cartão platinum"))
