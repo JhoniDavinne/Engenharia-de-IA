@@ -2,7 +2,7 @@
 
 ## Introdução e objetivos
 
-Este curso é destinado a pessoas que desejam resolver problemas e superar a **falta de contexto dos LLMs**, utilizando a técnica de **RAG** (*Retrieval Augmented Generation* — Geração Aumentada por Recuperação), para ampliar o contexto e melhorar as respostas dos LLMs com **contextos externos**.
+Este curso é destinado a pessoas que desejam resolver problemas e superar a **falta de contexto dos LLMs** (Large Language Model — Modelo de Linguagem de Grande Escala), utilizando a técnica de **RAG** (*Retrieval Augmented Generation* — Geração Aumentada por Recuperação), para ampliar o contexto e melhorar as respostas dos LLMs com **contextos externos**.
 
 ## O que você vai ver no curso
 

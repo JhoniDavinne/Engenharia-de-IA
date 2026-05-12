@@ -21,3 +21,6 @@ venv/
 *.swo
 
 langchain
+
+# Alura Slides
+Alura Slides/
